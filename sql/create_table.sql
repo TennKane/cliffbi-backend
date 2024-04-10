@@ -3,10 +3,10 @@
 #
 
 -- 创建库
-create database if not exists cliffbi;
+create database if not exists cliff_bi;
 
 -- 切换库
-use cliffbi;
+use cliff_bi;
 
 -- 用户表
 create table if not exists user
